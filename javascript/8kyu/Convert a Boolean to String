@@ -1,10 +1,10 @@
-// 1) Solución
+// 1) Solución//
 function booleanToString(b){
    return String (b)
 }
 console.log(booleanToString(true))
 
-// 2) Solución
+// 2) Solución //
 function booleanToString(b){
    return b.toString()
 }
