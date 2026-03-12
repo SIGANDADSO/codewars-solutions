@@ -1,0 +1,11 @@
+// 1) Solución
+function booleanToString(b){
+   return String (b)
+}
+console.log(booleanToString(true))
+
+// 2) Solución
+function booleanToString(b){
+   return b.toString()
+}
+console.log(booleanToString(true))
